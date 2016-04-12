@@ -1,7 +1,7 @@
 name: OlyBet FlairMania
 favicon: null
-layout_spectrum: 0.34783791401423514
-typography_spectrum: 0.3912451865617186
+layout_spectrum: 1
+typography_spectrum: 0.27232
 title: OlyBet FlairMania
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.06908799265511334
-  lightness: 0.5576247891876847
-  saturation: 0.8568999527487904
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.625
   rhythmicContrast: 0.8407569942064583
 purpose: []
