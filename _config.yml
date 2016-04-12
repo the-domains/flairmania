@@ -1,0 +1,28 @@
+name: OlyBet FlairMania
+favicon: null
+layout_spectrum: 0.34783791401423514
+typography_spectrum: 0.3912451865617186
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.06908799265511334
+  lightness: 0.5576247891876847
+  saturation: 0.8568999527487904
+  rhythmicContrast: 0.8407569942064583
+purpose: []
